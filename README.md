@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src= "https://github.com/capelaum/capelaum/raw/master/particles.gif" >
+  <img src= "https://github.com/capelaum/capelaum/raw/master/capelaum_bio.gif" >
 </div>
 
 ### Hi there 👋
