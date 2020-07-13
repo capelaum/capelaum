@@ -1,5 +1,9 @@
-### Hi there 👋
 
+<div align="center">
+  <img src= "https://github.com/capelaum/capelaum/raw/master/particles.gif" >
+</div>
+
+### Hi there 👋
 ## My real name is Luís Vinicius Capelletto
 ## I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
 
