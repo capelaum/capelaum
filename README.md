@@ -35,7 +35,6 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -45,6 +44,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+
+![Capelaum's github stats](https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&hide_border=true)
 <!--
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
