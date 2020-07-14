@@ -3,8 +3,8 @@
   <img src= "https://github.com/capelaum/capelaum/raw/master/capelaum_bio.gif" >
 </div>
 
-## My real name is Luís Vinicius Capelletto
-## I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
+ ## :diamonds: My real name is Luís Vinicius Capelletto
+ ## :clubs: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
 
 - 🔭 I’m currently working on my Web development Skills with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
 
