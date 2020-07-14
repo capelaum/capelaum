@@ -3,13 +3,12 @@
   <img src= "https://github.com/capelaum/capelaum/raw/master/capelaum_bio.gif" >
 </div>
 
-### Hi there 👋
 ## My real name is Luís Vinicius Capelletto
 ## I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
 
 - 🔭 I’m currently working on my Web development Skills with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
 
-- 🌱 Currently learning to develop dinamic websites using PHP with MySQL databases and some JavaScript
+- 🌱 Currently learning to develop dinamic websites using PHP with Databases and some JavaScript
 
 <!--
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
