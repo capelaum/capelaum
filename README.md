@@ -4,13 +4,13 @@
 </div>
 
  ## :diamonds: My real name is Luís Vinicius Capelletto
- ## :clubs: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
+ ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
 
 - 🔭 I’m currently working on Web Development with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
 
 - 🌱 Currently learning to develop dinamic websites using JavaScript PHP with varied Databases
 
-## ⚡ Some Facts:
+## ⚡ Some Facts
 
 - Did some college assignments including Huffman Coding, a Calculator & Arithmetic Expression resolution using C (my first learned language)
 - Have some knowledge in C++
