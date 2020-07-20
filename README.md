@@ -31,7 +31,7 @@
 [![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/badges/micro)
 
 ## My Tech Skills
-
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/capelaum/)](https://github.com/capelaum/)
