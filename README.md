@@ -3,9 +3,9 @@
   <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
- ## :diamonds: My real name is Luís Vinicius Capelletto
+ ## :diamonds: My name is Luís Vinicius Capelletto
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
-
+ 
 - 🔭 I’m currently working on Web Development with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
 
 - 🌱 Currently learning to develop dinamic websites using JavaScript PHP with varied Databases
