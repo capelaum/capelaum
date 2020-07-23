@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src= "https://github.com/capelaum/capelaum/raw/master/capelaum_bio.gif" >
+  <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
  ## :diamonds: My real name is Luís Vinicius Capelletto
