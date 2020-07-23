@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on Web Development with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
 
-- 🌱 Currently learning to develop dinamic websites using JavaScript PHP with varied Databases
+- 🌱 Currently learning to develop dinamic websites using JavaScript & PHP with Databases
 
 ## ⚡ Some Facts
 
