@@ -6,7 +6,7 @@
  ## :diamonds: My name is Luís Vinicius Capelletto
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
  
-- 🔭 I’m currently working on Web Development with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
+- 🔭 I’m currently working on Web Development with HTML, CSS, JavaScript, PHP and a lot more other technologies, libraries and frameworks
 - 🌱 Currently learning to develop dinamic websites using JavaScript & PHP with Databases
 
 ## ⚡ Some Facts
