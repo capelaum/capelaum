@@ -7,7 +7,6 @@
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
  
 - 🔭 I’m currently working on Web Development with HTML, CSS, JavaScript, PHP and a lot more other technologies, librarys and frameworks
-
 - 🌱 Currently learning to develop dinamic websites using JavaScript & PHP with Databases
 
 ## ⚡ Some Facts
@@ -15,6 +14,7 @@
 - Did some college assignments using C (my first learned language), including Huffman Coding and a Calculator & Arithmetic Expression resolution program.
 - Worked with microcontrollers named MSP430 F5529 & FR2355, using Assembly and C
 - Have some knowledge in C++
+- Stand Up Paddle (SUP) practitioner :surfer:
 
 ## Social
 
