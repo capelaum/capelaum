@@ -3,7 +3,6 @@
   <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
- ## :diamonds: My name is Luís Vinicius Capelletto
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
  
 - 🔭 I’m currently working on my Web Development skills;
