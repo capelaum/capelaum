@@ -10,9 +10,10 @@
 
 ## ⚡ Some Facts
 
-- Did college assignments using C (my first learned language), including Huffman Coding and a Calculator & Arithmetic Expression resolution program.
+- Builded a [institutional website](https://www.capelletto.adv.br) for my sister, which is a lawyer 
+- Did a lot of college assignments using C (my first learned language), including Huffman Coding and a Calculator & Arithmetic Expression resolution program.
 - Worked with microcontrollers named MSP430 F5529 & FR2355, using Assembly and C
-- Have some knowledge in C++
+- Have some knowledge in C++ and rust;
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ## Social
