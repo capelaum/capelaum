@@ -74,11 +74,10 @@
 
 ### Enviroment
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=ffffff)
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 
 ### Software
 
@@ -110,6 +109,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Linux](http://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=ffffff)
 
 ![Capelaum's github stats](https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&hide_border=true&theme=radical)
 
