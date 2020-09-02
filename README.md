@@ -3,8 +3,7 @@
   <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
-[![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
-<img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
+
 
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
  
@@ -21,6 +20,9 @@
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ## Social
+
+[![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
+<img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-capelletto/)](https://www.linkedin.com/in/luis-capelletto/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561994024994&text=Hello!)](https://api.whatsapp.com/send?phone=5561994024994&text=Hello!)
