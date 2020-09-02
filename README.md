@@ -39,19 +39,18 @@
 
 ### Programing Languages
 
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![RUST](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![RUST](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 ### Frontend Development 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![SASS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
+[![SASS](https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=Sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
