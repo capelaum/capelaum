@@ -7,11 +7,12 @@
 
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
  
- ### Currently:
+ ### Currently
  
-- Experimenting with Haskell, Prolog and Go;
-- Learning CMS and MVC projects with PHP;
-- Building projects with pure Javascript;
+- College works with Haskell - Hugs, Prolog and Go
+- Learning about Software Engineering
+- Algorithm design and analysis with C/C++
+- Building pure Javascript projects
 
 ## :octocat: Some Facts
 
