@@ -7,8 +7,11 @@
 
  ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
  
-- 🔭 I’m currently working on my Web Development skills;
-- 🌱 Currently learning to develop CMS and MVC projects with PHP;
+ ### Currently:
+ 
+- Experimenting with Haskell, Prolog and Go;
+- Learning CMS and MVC projects with PHP;
+- Building projects with pure Javascript;
 
 ## :octocat: Some Facts
 
