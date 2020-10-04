@@ -1,12 +1,9 @@
 
-<div align="center">
-  <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
-</div>
+## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
 
+ [![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
+<img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
 
-
- ## :mortar_board: I am a Computer Engineer Student at the University of Brasilia - [UnB](https://www.unb.br/)
- 
  ### Currently
  
 - College works with Haskell - Hugs, Prolog and Go
@@ -24,9 +21,6 @@
 
 ## Social
 
-[![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
-<img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-capelletto/)](https://www.linkedin.com/in/luis-capelletto/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561994024994&text=Hello!)](https://api.whatsapp.com/send?phone=5561994024994&text=Hello!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/capellett)](https://t.me/capellett)
@@ -42,14 +36,11 @@
 
 ### Programing Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![RUST](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
-### Frontend Development 
+### Frontend  
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
@@ -58,20 +49,18 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 
-### Backend Development 
+### Backend  
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
-
-### Database
+### Databases
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
-### Mobile App Development
+### Mobile
 
 [![Reactnative](https://img.shields.io/badge/-reactnative-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
 
 ### Enviroment
 
@@ -81,7 +70,7 @@
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 
-### Software
+### Design
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -96,6 +85,10 @@
 </div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&layout=compact&hide=html" alt="capelaum" /></p>
+
+<div align="center">
+  <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
+</div>
 
 <!--
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
