@@ -55,8 +55,8 @@
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 ### Mobile
 
