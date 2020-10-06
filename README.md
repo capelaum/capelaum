@@ -86,6 +86,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&layout=compact&hide=html" alt="capelaum" />
+</div>
+
+<div align="center">
   <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
