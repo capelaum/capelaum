@@ -85,11 +85,13 @@
 </div>
 
 <div align="center">
+ <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&layout=compact&hide=html" alt="capelaum" margin="20px"/>
   <br><br>
 </div>
 
 <div align="center">
+  
   <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
