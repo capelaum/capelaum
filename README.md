@@ -84,9 +84,8 @@
   <img src= "https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" width="300" >
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&layout=compact&hide=html" alt="capelaum" /></p>
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&layout=compact&hide=html" alt="capelaum" />
   <img src= "https://github.com/capelaum/capelaum/raw/master/particles_emoji.gif" >
 </div>
 
