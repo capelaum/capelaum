@@ -6,17 +6,16 @@
 
  ### Currently
  
-- College works with Haskell - Hugs, Prolog and Go
+- College works with Haskell, Prolog and Go
 - Learning about Software Engineering
 - Algorithm design and analysis with C/C++
 - Building pure Javascript projects
 
 ## :octocat: Some Facts
 
-- Builded a [institutional website](https://www.capelletto.adv.br) for my sister, which is a lawyer 
-- Did a lot of college assignments using C (my first learned language), including Huffman Coding and a Calculator & Arithmetic Expression resolution program.
-- Worked with microcontrollers named MSP430 F5529 & FR2355, using Assembly and C
-- Have some knowledge in C++;
+- Builded a [Institutional Lawyer Website](https://www.capelletto.adv.br) for my sister 
+- Did a lot of assignments using C (my first learned language), including a Huffman Coding and a Calculator & Arithmetic Expression resolution program
+- Did some embeded code with microcontrollers MSP430 F5529 & FR2355, using Assembly and C
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ## Social
