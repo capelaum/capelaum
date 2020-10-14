@@ -40,15 +40,11 @@
 [![SASS](https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=Sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
+[![Reactnative](https://img.shields.io/badge/-reactnative-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
-[![Reactnative](https://img.shields.io/badge/-reactnative-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-
 ![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![!Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 [![Linux](https://img.shields.io/badge/-Linux-4c3282?style=flat-square&logo=linux&link=https://github.com/capelaum/)](https://github.com/capelaum/)
@@ -64,9 +60,9 @@
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/capelaum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Capelaum's GitHub Stats" />
-  <img align="center" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" width="300" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" width="300" >
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Capelaum's GitHub Stats" />
 </a>
 
 <!--
