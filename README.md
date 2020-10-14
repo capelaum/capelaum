@@ -24,14 +24,16 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='20'>](https://www.instagram.com/capelletto.lv) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='20'>](mailto:thecapellett@gmail.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Dev.to' height='25'>](https://dev.to/capelaum)
-<a href="https://open.spotify.com/user/thecapela" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-[![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/badges/micro)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='Dev.to' height='25'>](https://open.spotify.com/user/thecapela)
 
-## 🤖 Tech I use & Like 
+[![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/)
+
+## 🤖 Tech I Use & Like 
 
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/) 
+[![C++](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c++&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/) 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
@@ -47,8 +49,8 @@
 
 [![Reactnative](https://img.shields.io/badge/-reactnative-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
-[VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-[Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![!Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 [![Linux](https://img.shields.io/badge/-Linux-4c3282?style=flat-square&logo=linux&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/capelaum/)](https://github.com/capelaum/)
@@ -62,15 +64,10 @@
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/capelaum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Capelaum's GitHub Stats" />
+  <img align="center" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" width="300" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/capelaum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Capelaum's GitHub Stats" />
- 
- <img align="center" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" width="300" >
-</a>
-
-
 
 <!--
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
