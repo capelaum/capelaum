@@ -11,14 +11,14 @@
 - Algorithm design and analysis with C/C++
 - Building Vanilla Javascript projects
 
-## :octocat: Some Facts
+### :octocat: Some Facts
 
 - Builded a [Institutional Lawyer Website](https://www.capelletto.adv.br) for my sister 
 - Did a lot of assignments using C (my first learned language), including a Huffman Coding and a Calculator & Arithmetic Expression resolution program
 - Did some embeded code with microcontrollers MSP430 F5529 & FR2355, using Assembly and C
 - Stand Up Paddle (SUP) practitioner :surfer:
 
-## ⚡ You can also find me on 
+### ⚡ You can also find me on 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='20'>](mailto:thecapellett@gmail.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='20'>](https://www.linkedin.com/in/luis-capelletto) 
@@ -27,7 +27,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Dev.to' height='25'>](https://dev.to/capelaum)&nbsp;
 [![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/)
 
-💻  &nbsp; Programming: <br/>
+## 💻  &nbsp; Programming: <br/>
 
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
@@ -58,7 +58,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
-## My GitHub Stats &#x1f4c8;
+### My GitHub Stats &#x1f4c8;
 
 <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
