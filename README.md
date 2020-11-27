@@ -27,7 +27,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='Spotify' height='25'>](https://open.spotify.com/user/thecapela)
 [![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/)
 
-## 💻  &nbsp; Programming: <br/>
+## 💻 Programming: <br/>
 
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
