@@ -11,9 +11,10 @@
 - Did some embeded code with microcontrollers MSP430 F5529 & FR2355, using Assembly and C
 - Stand Up Paddle (SUP) practitioner :surfer:
 
-### ⚡ You can also find me on 
+### ⚡ You can also find me on  
 
-<a href="mailto:thecapellett@gmail.com" style="display: block; margin-right: 50px;">
+<div display="block">
+<a href="mailto:thecapellett@gmail.com" display="block" margin="20">
    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Luís Vinicius Capelletto Gmail" height="20" width="20" style="margin-right: 50px;">
 </a>
 
@@ -33,9 +34,10 @@
    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Capelaum Stack Overflow Profile" height="20" width="20" >
 </a>
 
-<a href="https://stackoverflow.com/users/13337006/luis-v-capelletto">
-   <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Luís Vinicius Capelletto Stack Overflow Profile" height="20" width="20" >
+<a href="https://dev.to/capelaum" target=_blank>
+   <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Capelaum DEV.to profile" height="20" width="20" >
 </a> 
+</div>
 
 [![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/)
 
