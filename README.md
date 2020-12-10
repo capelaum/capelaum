@@ -13,11 +13,30 @@
 
 ### ⚡ You can also find me on 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='20'>](mailto:thecapellett@gmail.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Linkedin' height='20'>](https://www.linkedin.com/in/luis-capelletto) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='20'>](https://www.instagram.com/capelletto.lv) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Dev.to' height='25'>](https://dev.to/capelaum)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='Spotify' height='25'>](https://open.spotify.com/user/thecapela)
+<a href="mailto:thecapellett@gmail.com" style="display: block; margin-right: 50px;">
+   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Luís Vinicius Capelletto Gmail" height="20" width="20" style="margin-right: 50px;">
+</a>
+
+<a href="https://www.linkedin.com/in/luis-capelletto">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Luís Vinicius Capelletto LinkedIn Profile" height="20" width="20">
+</a>
+
+<a href="https://www.instagram.com/capelletto.lv">
+ <img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" width="20" height="20">
+</a>
+
+<a href="https://open.spotify.com/user/thecapela">
+  <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Capelaum Spotify" height="20" width="20">
+</a>
+
+<a href="https://stackoverflow.com/users/13337006/luis-v-capelletto">
+   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Capelaum Stack Overflow Profile" height="20" width="20" >
+</a>
+
+<a href="https://stackoverflow.com/users/13337006/luis-v-capelletto">
+   <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Luís Vinicius Capelletto Stack Overflow Profile" height="20" width="20" >
+</a> 
+
 [![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/)
 
 ## 💻 Programming <br/>
