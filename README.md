@@ -4,16 +4,9 @@
  [![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
 <img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
 
- ### Currently
- 
-- College works with Haskell, Prolog and Go
-- Learning about Software Engineering
-- Algorithm design and analysis with C/C++
-- Building Vanilla Javascript projects
-
 ### :octocat: Some Facts
 
-- Builded a [Institutional Lawyer Website](https://www.capelletto.adv.br) for my sister 
+- Builded a [Institutional Lawyer Website](https://www.capelletto.adv.br)
 - Did a lot of assignments using C (my first learned language), including a Huffman Coding and a Calculator & Arithmetic Expression resolution program
 - Did some embeded code with microcontrollers MSP430 F5529 & FR2355, using Assembly and C
 - Stand Up Paddle (SUP) practitioner :surfer:
@@ -33,25 +26,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![C](https://img.shields.io/badge/--007ACC?style=flat&logoColor=fff&logo=C)&nbsp;
+![Go](https://img.shields.io/badge/-Go-007ACC?style=flat&logoColor=fff&logo=go)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logoColor=fff&logo=C++)&nbsp;
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![SASS](https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=Sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+[![SASS](https://img.shields.io/badge/-Sass-FFFFFF?style=flat&logo=Sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+![ReactJs](https://img.shields.io/badge/-React.js-1572B6?style=flat&logoColor=fff&logo=react)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-[![Reactnative](https://img.shields.io/badge/-reactnative-black?style=flat-square&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![Reactnative](https://img.shields.io/badge/-React_Native-1572B6?style=flat&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 
-![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![!Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-[![Linux](https://img.shields.io/badge/-Linux-4c3282?style=flat-square&logo=linux&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![!Windows](http://img.shields.io/badge/-Windows-1572B6?style=flat&logo=windows&logoColor=ffffff)
+[![Linux](https://img.shields.io/badge/-Linux-4c3282?style=flat&logo=linux&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![Postgresql](https://img.shields.io/badge/-Postgresql-1572B6?style=flat&logo=postgresql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
