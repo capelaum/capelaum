@@ -73,16 +73,18 @@
 
 ### My GitHub Stats &#x1f4c8;
 
+
+  
+
 <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
  
- <div position="absolute" style="position:absolute; display:block; top: 200px; right: 50px;">
  <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
- </div>
+ 
  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Capelaum's GitHub Stats" />
+ 
  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=dracula&layout=compact"/>
 </div>
-
 
 <!-- Comment section =P
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
