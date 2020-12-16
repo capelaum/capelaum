@@ -40,12 +40,12 @@
 
 ## 💻 Programming <br/>
 
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/--007ACC?style=flat&logoColor=fff&logo=C)&nbsp;
-![Go](https://img.shields.io/badge/-Go-007ACC?style=flat&logoColor=fff&logo=go)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logoColor=fff&logo=C++)&nbsp;
+![Go](https://img.shields.io/badge/-Go-007ACC?style=flat&logoColor=fff&logo=go)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
@@ -75,26 +75,19 @@
 
 <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ 
+ <div position="absolute" style="position:absolute; display:block; top: 200px; right: 50px;">
  <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
+ </div>
  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Capelaum's GitHub Stats" />
  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=dracula&layout=compact"/>
 </div>
 
 
-<!--
+<!-- Comment section =P
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ![Capelaum's github stats](https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&hide_border=true&theme=radical)
 <img width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />
+
 -->
