@@ -13,8 +13,8 @@
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ### ⚡ You can also find me on  
- 
-<a href="mailto:thecapellett@gmail.com" style="text-decoration: none; color: none">
+
+<a href="mailto:thecapellett@gmail.com" style="text-decoration: none; color: none;">
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Luís Vinicius Capelletto Gmail" height="20" width="40">
 </a>
 
@@ -68,13 +68,9 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="20" height="20"/> 
 </p>
 
 ### My GitHub Stats &#x1f4c8;
-
-
-  
 
 <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
