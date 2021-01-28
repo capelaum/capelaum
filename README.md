@@ -73,7 +73,7 @@
 ### My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html&CSStitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
  
  <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
  
