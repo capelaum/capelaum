@@ -14,29 +14,12 @@
 
 ### ⚡ You can also find me on  
 
-<a href="mailto:thecapellett@gmail.com" style="text-decoration: none; color: none;">
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Luís Vinicius Capelletto Gmail" height="20" width="40">
-</a>
-
-<a href="https://www.linkedin.com/in/luis-capelletto">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Luís Vinicius Capelletto LinkedIn Profile" height="20" width="40">
-</a>
-
-<a href="https://www.instagram.com/capelletto.lv">
- <img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" height="20" width="40">
-</a>
-
-<a href="https://open.spotify.com/user/thecapela">
-   <img alt="Capelaum Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/13337006/luis-v-capelletto">
-   <img alt="Capelaum Stack Overflow Profile" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/capelaum" target=_blank>
-   <img alt="Capelaum DEV.to profile" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" >
-</a> 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thecapellett@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-capelletto)
+[![Instagram](https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/capelletto.lv)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/thecapela)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13337006/luis-v-capelletto)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/capelaum)
 
 ## 💻 Programming <br/>
 
