@@ -21,7 +21,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13337006/luis-v-capelletto)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/capelaum)
 
-## 💻 Programming <br/>
+## 💻 Skills <br/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
@@ -55,16 +55,16 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="20"/>
 </p>
 
+  
 ### My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css&theme=radical" />
  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&&theme=radical" alt="Capelaum's GitHub Stats" />
- <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css&theme=radical" />
  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact"/>
 </div>
 
 <!-- Comment section =P
 **capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
 -->
