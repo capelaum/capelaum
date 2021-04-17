@@ -59,9 +59,9 @@
 ### My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&&theme=radical" alt="Capelaum's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css&theme=radical" />
- <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact"/>
  <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
 </div>
 
