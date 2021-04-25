@@ -7,9 +7,9 @@
 
 ### :octocat: Some Facts
 
-- Builded a [Lawyer Website](https://www.capelletto.adv.br)
-- Did a lot of assignments using C (my first learned language), including a Huffman Coding and a Calculator & Arithmetic Expression resolution program
-- Did some embeded code with microcontrollers MSP430 F5529 & FR2355, using Assembly and C
+- Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
+- Aspiring to be a great Full Stack Web Developer 
+- Did some embeded code with MSP430 microcontrollers 
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ### ⚡ You can also find me on  
