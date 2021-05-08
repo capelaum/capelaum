@@ -23,29 +23,29 @@
 
 ## 💻 Skills <br/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/--007ACC?style=flat&logoColor=fff&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/++-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![SASS](https://img.shields.io/badge/-Sass-FFFFFF?style=flat&logo=Sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/capelaum/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/capelaum/)
+[![SASS](https://img.shields.io/badge/SaSS-hotpink.svg?&style=flat&logo=SASS&logoColor=white)](https://github.com/capelaum/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)](https://github.com/capelaum/)
 [![ReactJs](https://img.shields.io/badge/-React-1572B6?style=flat&logoColor=fff&logo=react)](https://github.com/capelaum/)
 [![Next.js](https://img.shields.io/badge/Next-black?&style=flat&logo=next.js&logoColor=white)](https://github.com/capelaum/)
 [![Node.js](https://img.shields.io/badge/-Node-5B9856?style=flat&logoColor=fff&logo=node.js)](https://github.com/capelaum/)
-[![Reactnative](https://img.shields.io/badge/-React_Native-1572B6?style=flat&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![Reactnative](https://img.shields.io/badge/-React_Native-1572B6?style=flat&logo=react)](https://github.com/capelaum/)
 
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)](https://github.com/capelaum/)
 [![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)](https://github.com/capelaum/)
 [![!Windows](http://img.shields.io/badge/-Windows-1572B6?style=flat&logo=windows&logoColor=ffffff)](https://github.com/capelaum/)
 [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://github.com/capelaum/)
 [![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)](https://github.com/capelaum/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/capelaum/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)](https://github.com/capelaum/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql)](https://github.com/capelaum/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)](https://github.com/capelaum/)
 
