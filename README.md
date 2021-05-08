@@ -8,8 +8,8 @@
 ### :octocat: Some Facts
 
 - Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
-- Aspiring to be a great Full Stack Web Developer 
-- Did some embeded code with MSP430 microcontrollers 
+- Aspiring Full Stack Web Developer 
+- Did some embedded code with MSP430 microcontrollers 
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ### ⚡ You can also find me on  
@@ -30,12 +30,13 @@
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat&logoColor=fff&logo=C++)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-007ACC?style=flat&logoColor=fff&logo=go)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/capelaum/)](https://github.com/capelaum/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![SASS](https://img.shields.io/badge/-Sass-FFFFFF?style=flat&logo=Sass&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![ReactJs](https://img.shields.io/badge/-React.js-1572B6?style=flat&logoColor=fff&logo=react)](https://github.com/capelaum/)
-[![NodeJS](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)](https://github.com/capelaum/)
+[![ReactJs](https://img.shields.io/badge/-React-1572B6?style=flat&logoColor=fff&logo=react)](https://github.com/capelaum/)
+[![Next.js](https://img.shields.io/badge/Next-black?&style=flat&logo=next.js&logoColor=white)](https://github.com/capelaum/)
+[![Node.js](https://img.shields.io/badge/-Node-5B9856?style=flat&logoColor=fff&logo=node.js)](https://github.com/capelaum/)
 [![Reactnative](https://img.shields.io/badge/-React_Native-1572B6?style=flat&logo=react&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 
 
@@ -45,8 +46,8 @@
 [![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)](https://github.com/capelaum/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/capelaum/)](https://github.com/capelaum/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&link=https://github.com/capelaum/)](https://github.com/capelaum/)
-[![Postgresql](https://img.shields.io/badge/-Postgresql-1572B6?style=flat&logo=postgresql)](https://github.com/capelaum/)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)](https://github.com/capelaum/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql)](https://github.com/capelaum/)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)](https://github.com/capelaum/)
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)](https://github.com/capelaum/)
 
 <p align="left">
@@ -55,12 +56,11 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="20"/>
 </p>
 
-  
 ### My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact"/>
  <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" >
 </div>
