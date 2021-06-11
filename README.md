@@ -1,10 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=582FC2&size=24&center=true&multiline=true&width=1000&height=100&lines=Hello%2C+I'm+a+computer+engineer+student+;at+the+University+of+Brasilia+&#x1f1e7;&#x1f1f7;)](https://git.io/typing-svg)
 
-[![Codewars Badge](https://www.codewars.com/users/capelaum/badges/micro)](https://www.codewars.com/users/capelaum/)
-<img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
-[![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
+<div align="center">
+ <a href="https://www.codewars.com/users/capelaum">
+  <img src="https://www.codewars.com/users/capelaum/badges/micro" />
+ </a>
+ <img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
+ <a href="https://github.com/capelaum">
+  <img src="https://img.shields.io/github/followers/capelaum?label=follow&style=social" />
+ </a>
+</div>
 
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
+<br>
+
+<div align="center">
+ <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
+</div>
 
 ### :octocat: Some Facts
 
