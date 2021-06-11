@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
 [![GitHub Capelaum](https://img.shields.io/github/followers/capelaum?label=follow&style=social)](https://github.com/capelaum)
 
- <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
 
 ### :octocat: Some Facts
 
@@ -44,13 +44,13 @@
 ![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![!Windows](http://img.shields.io/badge/-Windows-1572B6?style=flat&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-%2307405e.svg?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2307405e.svg?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ### My GitHub Stats &#x1f4c8;
 
