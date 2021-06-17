@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=582FC2&size=24&center=true&multiline=true&width=1000&height=100&lines=Hello%2C+I'm+a+computer+engineer+student+;at+the+University+of+Brasilia+&#x1f1e7;&#x1f1f7;)](https://git.io/typing-svg)
-
 <div align="center">
+ <h2>Hello, I'm a computer engineer student at the University of Brasilia :brazil:</h2>
  <a href="https://www.codewars.com/users/capelaum">
   <img src="https://www.codewars.com/users/capelaum/badges/micro" />
  </a>
