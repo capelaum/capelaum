@@ -40,13 +40,13 @@
 ![C++](https://img.shields.io/badge/++-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)&nbsp;
 ![SASS](https://img.shields.io/badge/SaSS-hotpink.svg?&style=flat&logo=SASS&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React-1572B6?style=flat&logoColor=fff&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/Next-black?&style=flat&logo=next-dot-js&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node-5B9856?style=flat&logoColor=fff&logo=node-dot-js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![ReactJS](https://img.shields.io/badge/ReactJS-1572B6?style=flat&logoColor=fff&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-black?&style=flat&logo=next.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NodeJS-%2343853D.svg?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Reactnative](https://img.shields.io/badge/-React_Native-1572B6?style=flat&logo=react)&nbsp;
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
