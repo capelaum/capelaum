@@ -15,7 +15,7 @@
  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
 </div>
 
-### :octocat: Some Facts
+### :scroll: Some Facts
 
 - Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
 - Aspiring Full Stack Web Developer 
