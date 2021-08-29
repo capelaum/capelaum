@@ -9,12 +9,6 @@
  </a>
 </div>
 
-<br>
-
-<div align="center">
- <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
-</div>
-
 ### :scroll: Some Facts
 
 - Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
@@ -72,7 +66,11 @@
 
 
 <!-- Comment section =P
-**capelaum/capelaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+streak-stats
+<div align="center">
+ <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
+</div>
 
 Illustrator + Photoshop
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> 
