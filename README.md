@@ -18,12 +18,12 @@
 
 ### ⚡ You can also find me on  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thecapellett@gmail.com)
+
 [![Linkedin](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-capelletto)
 [![Instagram](https://img.shields.io/badge/capelletto.lv%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/capelletto.lv)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/thecapela)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13337006/luis-v-capelletto)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev-dot-to&logoColor=white)](https://dev.to/capelaum)
+[![Dev.to](https://img.shields.io/badge/capelaum-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/capelaum)
 
 ## 💻 Skills <br/>
 
@@ -72,7 +72,11 @@ streak-stats
  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
 </div>
 
+BADGES
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thecapellett@gmail.com)
+
 Illustrator + Photoshop
+
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> 
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="20"/>
 
