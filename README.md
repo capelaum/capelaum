@@ -12,7 +12,7 @@
 ### :scroll: Some Facts
 
 - Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
-- Aspiring Full Stack Web Developer 
+- Full Stack Developer 
 - Did some embedded code with MSP430 microcontrollers 
 - Stand Up Paddle (SUP) practitioner :surfer:
 
