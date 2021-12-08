@@ -11,8 +11,8 @@
 
 ### :scroll: Some Facts
 
-- Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
 - Full Stack Developer 
+- Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
 - Did some embedded code with MSP430 microcontrollers 
 - Stand Up Paddle (SUP) practitioner :surfer:
 
@@ -58,10 +58,10 @@
 ### My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
- <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
+ <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
  <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" alt="capelaum">
+ <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
+ <img width="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
 </div>
 
 
