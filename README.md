@@ -64,9 +64,10 @@
 ## My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
- <img src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
+ <img width="600px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
+ <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
+ <img width="600px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
+ 
 </div>
 
 
