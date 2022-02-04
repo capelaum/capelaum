@@ -1,11 +1,26 @@
 <div align="center">
- <h2>Hello, I'm a computer engineer student at the University of Brasilia :brazil:</h2>
+ <h2>Ola! I'm a computer engineer student at the University of Brasilia :brazil:</h2>
+ 
  <a href="https://www.codewars.com/users/capelaum">
-  <img src="https://www.codewars.com/users/capelaum/badges/micro" />
+   <img src="https://www.codewars.com/users/capelaum/badges/micro" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
+  <a href="https://github.com/capelaum">
+   <img src="https://img.shields.io/github/followers/capelaum?label=follow&style=social" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luis-capelletto">
+  <img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
  </a>
- <img src="https://komarev.com/ghpvc/?username=capelaum" alt="capelaum" />
- <a href="https://github.com/capelaum">
-  <img src="https://img.shields.io/github/followers/capelaum?label=follow&style=social" />
+ 
+ <a href="https://www.instagram.com/capelletto.lv">
+  <img src="https://img.shields.io/badge/capelletto.lv%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white" />
+ </a>
+ 
+ <a href="https://open.spotify.com/user/thecapela">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white&color=1ED760" />
  </a>
 </div>
 
@@ -16,16 +31,7 @@
 - Did some embedded code with MSP430 microcontrollers 
 - Stand Up Paddle (SUP) practitioner :surfer:
 
-### ⚡ You can also find me on  
-
-
-[![Linkedin](https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-capelletto)
-[![Instagram](https://img.shields.io/badge/capelletto.lv%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/capelletto.lv)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/thecapela)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13337006/luis-v-capelletto)
-[![Dev.to](https://img.shields.io/badge/capelaum-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/capelaum)
-
-## 💻 Skills <br/>
+## 💻 Tech Stack <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
@@ -55,17 +61,18 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
 
 
-### My GitHub Stats &#x1f4c8;
+## My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
- <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" alt="capelaum">
- <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
- <img width="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
 </div>
 
 
 <!-- Comment section =P
+
+<img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" alt="capelaum">
 
 streak-stats
 <div align="center">
@@ -74,6 +81,14 @@ streak-stats
 
 BADGES
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thecapellett@gmail.com)
+
+<a href="https://stackoverflow.com/users/13337006/luis-v-capelletto">
+  <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+ </a>
+ 
+ <a href="https://dev.to/capelaum">
+  <img src="https://img.shields.io/badge/capelaum-0A0A0A?style=flat&logo=dev.to&logoColor=white" />
+ </a>
 
 Illustrator + Photoshop
 
