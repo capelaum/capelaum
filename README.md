@@ -28,17 +28,17 @@
 
 - Full Stack Developer 
 - Builded a [Lawyer Website](https://www.capelletto.adv.br) for my sister
-- Did some embedded code with MSP430 microcontrollers 
+- Played with Golang and Haskell
 - Stand Up Paddle (SUP) practitioner :surfer:
 
 ## 💻 Tech Stack <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/Python-007ACC?style=flat&logo=python&logoColor=fff)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/--007ACC?style=flat&logoColor=fff&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/++-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)&nbsp;
