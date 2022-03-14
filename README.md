@@ -33,33 +33,7 @@
 
 ## 💻 Tech Stack <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/Python-007ACC?style=flat&logo=python&logoColor=fff)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/--007ACC?style=flat&logoColor=fff&logo=C)&nbsp;
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)&nbsp;
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)&nbsp;
-![SASS](https://img.shields.io/badge/SaSS-hotpink.svg?&style=flat&logo=SASS&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![ReactJS](https://img.shields.io/badge/ReactJS-1572B6?style=flat&logoColor=fff&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/NextJS-black?&style=flat&logo=next.js&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/NodeJS-%2343853D.svg?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Reactnative](https://img.shields.io/badge/-React_Native-1572B6?style=flat&logo=react)&nbsp;
-
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![!VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![!Windows](http://img.shields.io/badge/-Windows-1572B6?style=flat&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)
-![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)
-![MySQL](https://img.shields.io/badge/-MySQL-%2307405e.svg?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2307405e.svg?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,go,html,css,react,nextjs,nodejs,express,prisma,docker,firebase,graphql,mysql,postgres,mongodb,styledcomponents,sass,tailwind,git,vscode,linux,figma)](https://skillicons.dev)
 
 ## My GitHub Stats &#x1f4c8;
 
