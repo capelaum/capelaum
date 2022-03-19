@@ -33,7 +33,7 @@
 
 ## 💻 Tech Stack <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,go,html,css,react,nextjs,nodejs,express,prisma,docker,firebase,graphql,mysql,postgres,mongodb,styledcomponents,sass,tailwind,git,vscode,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,c,go,html,css,react,nextjs,nodejs,express,prisma,docker,firebase,graphql,mysql,postgres,mongodb,sass,styledcomponents,tailwind,git,vscode,linux,figma)](https://skillicons.dev)
 
 ## My GitHub Stats &#x1f4c8;
 
