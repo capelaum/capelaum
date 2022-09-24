@@ -38,12 +38,9 @@
 ## My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img width="600px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
- <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
+ <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
+ <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
 </div>
-
-
-
 
 <!-- Comment section =P
 
@@ -52,11 +49,6 @@
 [![capelaum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=capelletto)](https://github.com/capelaum)
 
 <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" alt="capelaum">
-
-streak-stats
-<div align="center">
- <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=capelaum&theme=dracula&hide_border=true" alt="capelaum"/>
-</div>
 
 BADGES
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thecapellett@gmail.com)
