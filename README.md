@@ -40,11 +40,16 @@
 <div display="flex">
  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
  <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
- <img width="600px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
 </div>
 
 
+
+
 <!-- Comment section =P
+
+<img width="600px" src="https://github-readme-stats.vercel.app/api/wakatime?username=capelletto&theme=radical&layout=compact" alt="capelaum"/>
+
+[![capelaum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=capelletto)](https://github.com/capelaum)
 
 <img width="200px" src="https://github.com/capelaum/capelaum/raw/master/octocat-no-bg.png" alt="capelaum">
 
