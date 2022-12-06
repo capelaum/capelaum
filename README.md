@@ -38,7 +38,7 @@
 ## My GitHub Stats &#x1f4c8;
 
 <div display="flex">
- <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
+ <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capelaum&hide=html,css,c%2B%2B,tex&theme=radical" alt="capelaum"/>
  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=capelaum&show_icons=true&count_private=true&theme=radical" alt="capelaum" />
 </div>
 
