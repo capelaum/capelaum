@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luís Vinicius Capelletto
+Hi 👋 My name is Luís Vinicius Capelletto
 ================================================================================================================================================
 
 <a href="https://www.github.com/capelaum" target="_blank" rel="noreferrer">
@@ -9,15 +9,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <img src="https://www.codewars.com/users/capelaum/badges/micro" />
 </a>
 
-Fullstack Developer
+Fullstack Developer :brazil:
 -------------------
 
 Graduated recently in Computer Engineering, at the University of Brasilia. I've been learning web development since 2019 and since then I have developed a lot of projects with HTML, CSS, Javascript, Typescript, React, Node, PHP and Laravel. I'm currently doing some freelance projects and searching for remote job opportunities in this field.
 
-*   🌍  I'm based in Brasilia, DF
-*   🖥️  See my portfolio at [https://luis-capelletto-portfolio.netlify.app](http://luis-capelletto-portfolio.netlify.app )
+*   🌍  I'm based in Brasilia, DF - Brazil
+*   🖥️  See my portfolio at [https://luis-capelletto-portfolio.netlify.app](http://luis-capelletto-portfolio.netlify.app ) :brazil:
 *   ✉️  You can contact me at [thecapellett@gmail.com](mailto:thecapellett@gmail.com)
-*   🧠  I'm learning NestJS and Docker
+*   🧠  I'm learning NestJS and Fastify
      
 ### Skills
 
