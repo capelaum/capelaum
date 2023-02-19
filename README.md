@@ -17,7 +17,7 @@ Graduated recently in Computer Engineering, at the University of Brasilia. I've 
 *   🌍  I'm based in Brasilia, DF - Brazil
 *   🖥️  See my portfolio at [https://luis-capelletto-portfolio.netlify.app](http://luis-capelletto-portfolio.netlify.app ) :brazil:
 *   ✉️  You can contact me at [thecapellett@gmail.com](mailto:thecapellett@gmail.com)
-*   🧠  I'm learning NestJS and Fastify
+*   🧠  I'm currently learning trpc and Prisma
      
 ### Skills
 
