@@ -1,4 +1,4 @@
-Hi 👋 My name is Luís Vinicius Capelletto
+👋 Hi, My name is Luís Vinicius Capelletto
 ================================================================================================================================================
 
 <a href="https://www.github.com/capelaum" target="_blank" rel="noreferrer">
@@ -17,7 +17,7 @@ Graduated recently in Computer Engineering, at the University of Brasilia. I've 
 *   🌍  I'm based in Brasilia, DF - Brazil
 *   🖥️  See my portfolio at [https://luis-capelletto-portfolio.netlify.app](http://luis-capelletto-portfolio.netlify.app ) :brazil:
 *   ✉️  You can contact me at [thecapellett@gmail.com](mailto:thecapellett@gmail.com)
-*   🧠  I'm currently learning trpc and Prisma
+*   🧠  I'm currently learning to create the [T3 Stack](https://create.t3.gg) 
      
 ### Skills
 
