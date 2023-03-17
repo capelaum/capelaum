@@ -9,7 +9,7 @@
  <img src="https://www.codewars.com/users/capelaum/badges/micro" />
 </a>
 
-Fullstack Developer :brazil:
+Full Stack Developer :brazil:
 -------------------
 
 Graduated recently in Computer Engineering, at the University of Brasilia. I've been learning web development since 2019 and since then I have developed a lot of projects with HTML, CSS, Javascript, Typescript, React, Node, PHP and Laravel. I'm currently doing some freelance projects and searching for remote job opportunities in this field.
