@@ -15,7 +15,7 @@ Full Stack Developer :brazil:
 Graduated recently in Computer Engineering, at the University of Brasilia. I've been learning web development since 2019 and since then I have developed a lot of projects with HTML, CSS, Javascript, Typescript, React, Node, PHP and Laravel. I'm currently doing some freelance projects and searching for remote job opportunities in this field.
 
 *   🌍  I'm based in Brasilia, DF - Brazil :brazil:
-*   🖥️  Check out my portfolio at [https://luis-capelletto-portfolio.netlify.app](http://luis-capelletto-portfolio.netlify.app ) :brazil:
+*   🖥️  Check out my portfolio at [https://www.luiscapeleltto.com](http://luiscapelletto.com)
 *   🧠  I'm currently trying the [T3 Stack](https://create.t3.gg) 
      
 ### Skills
