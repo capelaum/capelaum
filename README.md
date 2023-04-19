@@ -15,7 +15,7 @@ Full Stack Developer :brazil:
 Graduated recently in Computer Engineering, at the University of Brasilia. I've been learning web development since 2019 and since then I have developed a lot of projects with HTML, CSS, Javascript, Typescript, React, Node, PHP and Laravel. I'm currently doing some freelance projects and searching for remote job opportunities in this field.
 
 *   🌍  I'm based in Brasilia, DF - Brazil :brazil:
-*   🖥️  Check out my portfolio at [https://www.luiscapeleltto.com](http://luiscapelletto.com)
+*   🖥️  Check out my portfolio at [https://www.luiscapelletto.com](https://www.luiscapelletto.com)
 *   🧠  I'm currently trying the [T3 Stack](https://create.t3.gg) 
      
 ### Skills
@@ -44,15 +44,6 @@ Graduated recently in Computer Engineering, at the University of Brasilia. I've 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-            
-<!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> -->
-
-<!-- <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> -->
-
-<!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> -->
-
-<!-- <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a> -->
 
 ### My GitHub Stats
 
