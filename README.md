@@ -1,4 +1,4 @@
-👋 Hi, My name is Luís Vinicius Capelletto
+👋 Hello, I'm Luís Vinicius Capelletto
 ================================================================================================================================================
 
 <a href="https://www.github.com/capelaum" target="_blank" rel="noreferrer">
@@ -12,10 +12,11 @@
 Full Stack Developer :brazil:
 -------------------
 
-Graduated recently in Computer Engineering, at the University of Brasilia. I've been learning web development since 2019 and since then I have developed a lot of projects with HTML, CSS, Javascript, Typescript, React, Node, PHP and Laravel. I'm currently doing some freelance projects and searching for remote job opportunities in this field.
+Bachelor's Degree in Computer Engineering at the University of Brasilia. I've been developing a lot of projects, with a bunch of technologies, since 2019. My go to language is Typescript (Node + React). 
 
-*   🖥️  Check out my portfolio at [https://www.luiscapelletto.dev.br](https://www.luiscapelletto.dev.br)
-*   🧠  I'm currently learning more about Next 14, Java and Python
+* 💼 Working at [Dataprev](https://www.dataprev.gov.br/)
+* 🖥️ Check out my portfolio at [https://www.luiscapelletto.dev.br](https://www.luiscapelletto.dev.br)
+* 🧠 Learning more about Java + Spring Boot + DevOps
      
 ### Skills
 
