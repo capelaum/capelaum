@@ -1,5 +1,5 @@
 👋 Hello, I'm Luis Vinicius Capelletto
-================================================================================================================================================
+---
 
 <a href="https://www.github.com/capelaum" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/github/followers/capelaum?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" />
@@ -9,14 +9,15 @@
  <img src="https://www.codewars.com/users/capelaum/badges/micro" />
 </a>
 
-Full Stack Developer :brazil:
--------------------
+Mid-level Software Engineer :brazil:
+---
 
-Bachelor's Degree in Computer Engineering at the University of Brasilia. I've been developing a lot of projects, with a bunch of technologies, since 2019. My go to language is Typescript (Node + React). 
-
-* 💼 Working as Software Engineer at [Dataprev](https://www.dataprev.gov.br/)
-* 🖥️ Portfolio: [https://www.luiscapelletto.dev.br](https://www.luiscapelletto.dev.br)
-* 🧠 Learning more about Sytem Design, Software Architecture and using AI agents into my workflow
+- Working as Software Engineer at [Dataprev](https://www.dataprev.gov.br/).
+- Bachelor's Degree in Computer Engineering at the University of Brasilia. 
+- Developing projects with a bunch of technologies, since 2019. 
+- My go to tech stack is Typescript (Node + React) and Java (Spring Boot). 
+- Portfolio: [https://www.luiscapelletto.dev.br](https://www.luiscapelletto.dev.br)
+- Learning more about Sytem Design, Software Architecture and using AI agents into my workflow
      
 ## Tech Stack
 
